@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - ParkingSpace
+  - MainCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cars
+  - Spaces
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundRoad
+    uniqueID: 3517870851
+    locked: 0
+  - name: Spaces
+    uniqueID: 1559115679
+    locked: 0
+  - name: BackgroundPaint
+    uniqueID: 2266817889
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3173651125
+    locked: 0
